@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bozjr&label=Profile%20views&color=0e75b6&style=flat" alt="bozjr" /> </p>
 
-- 🔭 I’m currently working on **Basic HTML, CSS and soon to be JS**
+- 🔭 I’m currently working on **Basic HTML, CSS and JS**
 
-- 🌱 I’m currently learning **CSS**
+- 🌱 I’m currently learning **JS**
 
 - 👯 I’m looking to collaborate on **Any Front End Web Development Project**
 
